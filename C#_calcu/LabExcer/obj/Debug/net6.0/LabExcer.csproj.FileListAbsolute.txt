@@ -1,0 +1,15 @@
+C:\Users\sti\source\repos\LabExcer\LabExcer\bin\Debug\net6.0\LabExcer.exe
+C:\Users\sti\source\repos\LabExcer\LabExcer\bin\Debug\net6.0\LabExcer.deps.json
+C:\Users\sti\source\repos\LabExcer\LabExcer\bin\Debug\net6.0\LabExcer.runtimeconfig.json
+C:\Users\sti\source\repos\LabExcer\LabExcer\bin\Debug\net6.0\LabExcer.dll
+C:\Users\sti\source\repos\LabExcer\LabExcer\bin\Debug\net6.0\LabExcer.pdb
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.csproj.AssemblyReference.cache
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.AssemblyInfoInputs.cache
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.AssemblyInfo.cs
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.csproj.CoreCompileInputs.cache
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.dll
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\refint\LabExcer.dll
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.pdb
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\LabExcer.genruntimeconfig.cache
+C:\Users\sti\source\repos\LabExcer\LabExcer\obj\Debug\net6.0\ref\LabExcer.dll
